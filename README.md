@@ -1,4 +1,4 @@
-# Appointment Scheduler
+# Appointment Scheduler TD
 ![Image](https://cosmicjs.com/uploads/b5467280-9745-11e7-9fec-572a0ce3e796-app-scheduler.png)
 ### [View Demo](https://cosmicjs.com/apps/appointment-scheduler/demo)
 
