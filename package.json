@@ -13,7 +13,7 @@
     "axios": "^0.16.2",
     "body-parser": "^1.17.2",
     "cors": "^2.8.4",
-    "cosmicjs": "^2.4.0",
+    "cosmicjs": "^2.4.22",
     "express": "^4.15.4",
     "express-session": "^1.15.5",
     "http": "^0.0.0",
@@ -21,6 +21,10 @@
     "morgan": "^1.8.2",
     "path": "^0.12.7",
     "twilio": "^3.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
